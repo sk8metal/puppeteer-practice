@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scpript.js",
+  "dependencies": {
+    "chromium": "^2.1.0",
+    "puppeteer": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
