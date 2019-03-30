@@ -11,4 +11,7 @@ npm install -g yarn
 yarn add puppeteer
 ```
 
-
+## 実行
+```
+node script.js
+```
